@@ -1,5 +1,5 @@
 {
-    "name": "rwoverdijk/assetmanager",
+    "name": "finmh-lm/assetmanager",
     "description": "An assetmanager module for Laminas.",
     "license": "BSD-2-Clause",
     "type": "library",
@@ -8,7 +8,7 @@
         "asset manager",
         "laminas"
     ],
-    "homepage": "https://github.com/RWOverdijk/AssetManager",
+    "homepage": "https://github.com/Finalizer80/AssetManager",
     "authors": [
         {
             "name": "Wesley Overdijk",
@@ -19,6 +19,9 @@
             "name": "Marco Pivetta",
             "email": "ocramius@gmail.com",
             "homepage": "http://ocramius.github.com/"
+        },
+        {
+            "name": "Michael Henze",
         }
     ],
     "require": {
